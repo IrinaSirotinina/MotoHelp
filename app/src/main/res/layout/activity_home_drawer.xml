@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view" android:layout_height="match_parent"
+    android:layout_width="wrap_content">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/phone"
+            android:icon="@drawable/ic_baseline_phone_24"
+            android:title="Call"
+            />
+        <item
+            android:id="@+id/email"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Email"
+            />
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/ic_baseline_map_24"
+            android:title="Map"
+            />
+        <item
+            android:id="@+id/deals"
+            android:icon="@drawable/ic_baseline_shopping_basket_24"
+            android:title="Settings"
+            />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="Logout"
+            />
+    </group>
+</menu>

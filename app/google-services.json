@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578341274621",
+    "firebase_url": "https://motoapp-ff949.firebaseio.com",
+    "project_id": "motoapp-ff949",
+    "storage_bucket": "motoapp-ff949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578341274621:android:1eee200f1013dde2784f94",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578341274621-rphs1polj22uajnflnlp0e3vspn68979.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "414d3d92d1998a7bedad0461c0af89e2142578dd"
+          }
+        },
+        {
+          "client_id": "578341274621-qfeiirni6vum7vvas5p4epln1momgjo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDjZw57LmVgweMuCwy8wLbrd0aOTGQzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578341274621-qfeiirni6vum7vvas5p4epln1momgjo9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "578341274621-2oet8b0anc90aksn9543duome808akvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.text"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
